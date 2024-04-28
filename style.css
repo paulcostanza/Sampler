@@ -28,7 +28,6 @@
 
 body {
     background: linear-gradient(135deg, #8f9b8f, #d6e3e3, #a3afa3);
-    /* adjust colors as needed */
     font-family: "Montserrat", sans-serif;
     font-weight: 700;
 
@@ -52,22 +51,6 @@ body {
     border-color: #ffc500;
     box-shadow: 0 0 10px #ffc600;
     text-shadow: 0 0 5px black;
-}
-
-
-
-/* Background Pic */
-img {
-    height: 100;
-    width: 100%;
-    opacity: 0.75;
-}
-
-.keys {
-    /* background-image: url(https://images-na.ssl-images-amazon.com/images/I/61A6308xK4L._SL1200_.jpg); */
-    background-size: cover;
-    height: 100vh;
-
 }
 
 .dot {

@@ -7,3 +7,4 @@ New name for project: beat laboratory
 - light up drum when pad is hit, maybe use adobe for cool lighting effect?
 - click and drag to put into a new spot?
 - need to add onclick
+- need to figure out how to stop *open hi-hat* when you hit *close hi hat*
